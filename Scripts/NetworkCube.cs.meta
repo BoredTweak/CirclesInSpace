@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c45717425727996468ec75ed6a692acb
+timeCreated: 1433728237
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - myCam: {fileID: 131092, guid: 34ebe8cbb9bce6547b63ccb0a6832edb, type: 2}
+  - audio: {fileID: 8300000, guid: 66e00e9e31458ba40825cc067ca5e81f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
